@@ -1,0 +1,7 @@
+E:\Mphasis_LVC\Day19\Assignment\Assignment_ReflectionDay19\Assignment_ReflectionDay19\bin\Debug\Assignment_ReflectionDay19.exe.config
+E:\Mphasis_LVC\Day19\Assignment\Assignment_ReflectionDay19\Assignment_ReflectionDay19\bin\Debug\Assignment_ReflectionDay19.exe
+E:\Mphasis_LVC\Day19\Assignment\Assignment_ReflectionDay19\Assignment_ReflectionDay19\bin\Debug\Assignment_ReflectionDay19.pdb
+E:\Mphasis_LVC\Day19\Assignment\Assignment_ReflectionDay19\Assignment_ReflectionDay19\obj\Debug\Assignment_ReflectionDay19.csproj.AssemblyReference.cache
+E:\Mphasis_LVC\Day19\Assignment\Assignment_ReflectionDay19\Assignment_ReflectionDay19\obj\Debug\Assignment_ReflectionDay19.csproj.CoreCompileInputs.cache
+E:\Mphasis_LVC\Day19\Assignment\Assignment_ReflectionDay19\Assignment_ReflectionDay19\obj\Debug\Assignment_ReflectionDay19.exe
+E:\Mphasis_LVC\Day19\Assignment\Assignment_ReflectionDay19\Assignment_ReflectionDay19\obj\Debug\Assignment_ReflectionDay19.pdb
